@@ -70,6 +70,9 @@ I live in Glasgow and work at the Uni of Strathclyde.
 1. Helps me keep up to-date with Ed-Carp activities and get helpers for Carpentries courses.
 1. I live in Edinburgh and work at the Institute of Genetics and Cancer, College of Medicine,  Uni of Edinburgh.
 
+### Tahira Akbar
+2. Digital Research Facilitation are a service that links researchers with the different services that the University offers; to this end the role with Carpentries is to (i) inform end users of opportunities for training available, (ii) to make Carpentries aware of requests for training that they may be in a position to provide, and (iii) provide a voice on the committee for researchers who wish to engage via DRF.
+4. We are a small team of three individuals with mixed research backgrounds. Each team member provides dedicated support to one of the three Colleges within University of Edinburgh.
 
 ## Meeting zoom chat:
 ```sh-session
