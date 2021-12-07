@@ -74,6 +74,13 @@ I live in Glasgow and work at the Uni of Strathclyde.
 2. Digital Research Facilitation are a service that links researchers with the different services that the University offers; to this end the role with Carpentries is to (i) inform end users of opportunities for training available, (ii) to make Carpentries aware of requests for training that they may be in a position to provide, and (iii) provide a voice on the committee for researchers who wish to engage via DRF.
 4. We are a small team of three individuals with mixed research backgrounds. Each team member provides dedicated support to one of the three Colleges within University of Edinburgh.
 
+### Bailey Harrington
+1. Provide a space where parties who can benefit from, and contribute to, the Carpentries particular style of digital skills knowledge sharing can meet and discuss opportunities; new ways of distributing that knowledge; and potential partnerships that advance the goal of making digital skills accessible.
+1. I can provide experience and advice with helping/teaching/organising workshops. I have been a part of workshops at a number of UK universities.
+1. Keep me in touch with Carpentries activities in the area.
+1. Postdoctoral research associate at the University of Strathclyde, doing research and research software engineering. I live in Edinburgh.
+
+
 ## Meeting zoom chat:
 ```sh-session
 15:32:11 From  Graeme Grimes  to  Everyone:
