@@ -6,7 +6,7 @@
 
 ## Declined, Apologies and Tentative 
 
-Steve Ford, Mario Antonioletti, Edward Wallace, Antonia Mey
+Steve Ford, Mario Antonioletti, Edward Wallace, Antonia Mey, Lucia Michielin
 
 ## Agenda items
 
