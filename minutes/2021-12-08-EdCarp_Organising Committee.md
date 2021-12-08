@@ -16,7 +16,7 @@ Workforce Development Data Carpentry 2022
 
 Use of 6 coordinated workshops included in the Gold Carpentries Membership
 
-Outline/purpose of the organising committee.
+Outline/purpose of the organising committee. Check notes from 06 Oct.
 - suggestions from members
 - quorum
 - governing document
