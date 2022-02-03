@@ -63,7 +63,6 @@ I live in Glasgow and work at the Uni of Strathclyde.
 3. Committee has always been a source of ideas, knowledge and motivation. 
 4. I live in Edinburgh and work at EPCC at the Uni of Edinburgh.
 
-
 ### Graeme Grimes
 1. The committee plans SWC/DC/LC workshops and meets to exchange ideas and seek helpers and instructors.
 1. I can help with the meeting planning and workshops at the IGC.
@@ -85,6 +84,12 @@ I live in Glasgow and work at the Uni of Strathclyde.
 1. I can primarily help organise and deliver (mainly) SWCs, and happy to provide support for other nearby training efforts.
 1. Keep me up connected with other people folks nearby involved in this; make me confident I'll be able to successfully deliver local workshops; provide opportunities for training and personal development; keep me up to date with exciting stuff happening outside my School.
 1. I'm a Computing Officer in the School of Physics & Astronomy at UoE. I'm mainly involved in developing, administering and supporting our user-facing Linux and Scientific Computing platforms and infrastructure, and provide 3rd line support to staff, PGR and UG/PGT students in our School doing these kinds of activities. I also do a bit of software development, though not as much as I used to.
+
+### Juan Herrera
+1. I understand the committee as a network where I can find other peers to collaborate with SWC/DC workshops.
+2. I usually organise two SWC and two DC a year. I'm happy to liaise with other organisations and deliver a joint workshop. If my workload allows, I'd be also happy to be an instructor.
+3. For online courses, I found it difficult to find instructors or helpers. I'd appreciate further support on this task.
+4. I work at EPCC, The University of Edinburgh. One of my roles is to lead the ARCHER2 training service. I'm located at Bayes Centre (Edinburgh).
 
 ## Meeting zoom chat:
 ```sh-session
