@@ -80,6 +80,11 @@ I live in Glasgow and work at the Uni of Strathclyde.
 1. Keep me in touch with Carpentries activities in the area.
 1. Postdoctoral research associate at the University of Strathclyde, doing research and research software engineering. I live in Edinburgh.
 
+### David McKain
+1. Curate a programme of SWC, DC & LC workshops at and near UoE; look for opportunities to deliver new workshops; provide support and resources to workshop organisers, e.g. providing administrative scaffolding to help organise and run a worshop, helping to recruit instructors and helpers; providing carpentries training, support and mentoring for potential new instructors and helpers; providing peer support to colleagues involved in the committee.
+1. I can primarily help organise and deliver (mainly) SWCs, and happy to provide support for other nearby training efforts.
+1. Keep me up connected with other people folks nearby involved in this; make me confident I'll be able to successfully deliver local workshops; provide opportunities for training and personal development; keep me up to date with exciting stuff happening outside my School.
+1. I'm a Computing Officer in the School of Physics & Astronomy at UoE. I'm mainly involved in developing, administering and supporting our user-facing Linux and Scientific Computing platforms and infrastructure, and provide 3rd line support to staff, PGR and UG/PGT students in our School doing these kinds of activities. I also do a bit of software development, though not as much as I used to.
 
 ## Meeting zoom chat:
 ```sh-session
