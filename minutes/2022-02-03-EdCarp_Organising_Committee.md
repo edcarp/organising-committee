@@ -3,26 +3,36 @@
 
 ## Attendees
 
-
+Mario Antonioletti, Steve Ford, David McKain, Lucia Michielin, Graeme Grimes, Tahira Akbar, Toby Samuels, Evgenji Belikov, Juan Herrera, Alison Meynert, Edward Wallace, Francesca Baseby
 
 ## Declined, Apologies and Tentative 
 
-Giacomo Peru
+Giacomo Peru, Matthew Hamilton, Antonia Mey
 
 ## Agenda items
 
+Workforce Development Data Carpentry 2022
+Use of 6 coordinated workshops included in the Gold Carpentries Membership
+Outline/purpose of the organising committee.
+Setting a timeline for developing a committee governance document.
+AOB
 
 
-## Notes from 03FEB2022
+## Notes 
 
+Workforce Development Data Carpentry 2022: this is planning workshops funded by SFC for the working community.
 
+Use of 6 coordinated workshops included in the Gold Carpentries Membership: these are workshops facilitied by central Carpentries. One workshop is planned (AM) and another 5 workshops are available (see action points)
 
-## Plans for workshops:
+Outline/purpose of the organising committee & Setting a timeline for developing a committee governance document: some discussion (see action points)
 
 ## AOB
 
+EB spoke to an item on a training project at EPCC and the group discussed useful contacts
 
+## Actions
 
+MA to draft and circulate a guidence document for the committee to consider. 
 
 ## Meeting zoom chat:
 12:02:43 From  Steve Ford  to  Everyone:
