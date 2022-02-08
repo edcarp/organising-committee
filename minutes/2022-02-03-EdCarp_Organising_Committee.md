@@ -32,9 +32,12 @@ EB spoke to an item on a training project at EPCC and the group discussed useful
 
 ## Actions
 
-MA to draft and circulate a guidence document for the committee to consider. 
+- [x] MA to draft and circulate a guidence document for the committee to consider. 
+      Added [here](https://github.com/edcarp/organising-committee/blob/main/governance.md).
+
 
 ## Meeting zoom chat:
+```
 12:02:43 From  Steve Ford  to  Everyone:
 	https://github.com/edcarp/organising-committee/blob/main/minutes/2021-10-06-EdCarp_Organising_Committee.md
 12:05:34 From  Lucia Michielin  to  Everyone:
@@ -56,3 +59,4 @@ MA to draft and circulate a guidence document for the committee to consider.
 	@Evgenjj, if you email digitalresearchservices@ed.ac.uk everyone in the DRS team will receive
 12:32:01 From  Evgenij Belikov  to  Everyone:
 	thanks Tahira
+```
