@@ -21,6 +21,7 @@ The current members:
 * Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde (**Chair**)
 * Graeme Grimes, IGC, University of Edinburgh
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
+* Matthew Hamilton, Edinburgh College of Arts, University of Edinburgh
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
 * Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
 * David McKain, SOPA, University of Edinburgh
