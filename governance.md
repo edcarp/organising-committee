@@ -22,19 +22,18 @@ The current members:
 * Graeme Grimes, IGC, University of Edinburgh
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
 * Matthew Hamilton, Edinburgh College of Arts, University of Edinburgh
+* Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
 * Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
 * David McKain, SOPA, University of Edinburgh
 * Alison Meynert, IGC, University of Edinburgh
 * Lucia Michielin, Centre for data Culture & Society, University of Edinburgh
+* Robert Nagy, EPCC, University of Edinburgh
 * Giacomo Peru, SSI/EPCC, University of Edinburgh
+* Toby Samuels, Research Futures Academy, Heriot-Watt University
+* Sara Tilley, Researcher Development Coordinator, Heriot Watt University
 * Edward Wallace, Wallace Lab, University of Edinburgh
-* Robert Nahy, 
-* Tahira Akbar, Digital Research Facility
-* Sara Tilley
-* Bailey Harrington, University of Strathclyde
-* Toby Samuels
-* Matthew Hamilton
+* Tahira Akbar, Digital Research Facility, University of Edinburgh
 
 Previous members:
 
