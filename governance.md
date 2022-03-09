@@ -5,6 +5,7 @@
 * [Purpose](#purpose)
 * [Current committee members](#current-committee-members)
 * [Past committee members](#past-committee-members)
+* [Outstanding issues](#outstanding-issues)
 
 
 ## Purpose
@@ -44,7 +45,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
 
 
-Outstanding questions:
+## Outstanding issues
 
 * **Who should we put here?**
 
