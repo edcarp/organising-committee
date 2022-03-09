@@ -47,9 +47,8 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 
 ## Outstanding issues
 
-* **Who should we put here?**
-
-**Is there anyone else? Should we have rules for committee members? e.g. a minimum attendance?**
-
-**Running dates for the chair? Should we have a secretary? Can anyone join the committee?**
+* **Should we have rules for committee members? e.g. a minimum attendance?, see issue [#9](https://github.com/edcarp/organising-committee/issues/9)**
+* **Running dates for the chair?**
+* **Should we have a secretary?**
+* **Can anyone join the committee?**
 
