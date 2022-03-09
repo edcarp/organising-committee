@@ -24,7 +24,6 @@ The current members:
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
 * Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
 * David McKain, SOPA, University of Edinburgh
-* Alison Meynert, IGC, University of Edinburgh
 * Lucia Michielin, Centre for data Culture & Society, University of Edinburgh
 * Robert Nagy, EPCC, University of Edinburgh
 * Giacomo Peru, SSI/EPCC, University of Edinburgh
