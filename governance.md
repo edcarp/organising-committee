@@ -2,7 +2,14 @@
 
 **This is a draft!**
 
-The Edinburgh Carpentries has two coordinating commiettees:
+* [Purpose](#purpose)
+* [Current committee members](#current-committee-members)
+* [Past committee members](#past-committee-members)
+
+
+## Purpose
+
+The Edinburgh Carpentries has two coordinating committees:
 
 * **Steering committee**: mainly address strategic issues for the Edinburgh Carpentries and try to promote the Carpentries within the pertinent institutions as well as dealing with subscription with the Carpentries. ***Is there somewhere where one can get more information about this***?
 * **Organising committee**: implement the vision of the steering committee and do the day-to-day running of the Edinburgh Carpentries - that is, they arrange or try to facilitate Carpentry workshops, try to source instructors and helpers as well as facilitating the setting up of carpentry workshops by providing tips and advice.
