@@ -12,7 +12,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * A **chair person** who chairs the meetings and schedules the new meetings. 
 * A **secretary** who minutes the meetings and looks after the GitHub Organisation. The current secretary is to be assigned.
 
-The current members:
+## Current committee members
 
 * Mario Antonioletti, SSI/EPCC, University of Edinburgh
 * Francesca Baseby, Centre for Research Collections, University of Edinburgh
@@ -31,7 +31,8 @@ The current members:
 * Sara Tilley, Researcher Development Coordinator, Heriot Watt University
 * Edward Wallace, Wallace Lab, University of Edinburgh
 
-Previous members:
+## Past committee members
+
 * Tahira Akbar, Digital Research Facility, University of Edinburgh
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
 
