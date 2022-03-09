@@ -37,6 +37,8 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
 
 
+Remianing questions:
+
 * **Who should we put here?**
 
 **Is there anyone else? Should we have rules for committee members? e.g. a minimum attendance?**
