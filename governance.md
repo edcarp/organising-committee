@@ -37,7 +37,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
 
 
-Remianing questions:
+Outstanding questions:
 
 * **Who should we put here?**
 
