@@ -14,13 +14,11 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 
 The current members:
 
-* Tahira Akbar, Digital Research Services, University of Edinburgh
 * Mario Antonioletti, SSI/EPCC, University of Edinburgh
 * Francesca Baseby, Centre for Research Collections, University of Edinburgh
 * Evgenij Belikov, EPCC, University of Edinburgh
 * Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde (**Chair**)
 * Graeme Grimes, IGC, University of Edinburgh
-* Magnus Hagdorn, School of Geosciences, University of Edinburgh
 * Matthew Hamilton, Edinburgh College of Arts, University of Edinburgh
 * Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
@@ -33,9 +31,11 @@ The current members:
 * Toby Samuels, Research Futures Academy, Heriot-Watt University
 * Sara Tilley, Researcher Development Coordinator, Heriot Watt University
 * Edward Wallace, Wallace Lab, University of Edinburgh
-* Tahira Akbar, Digital Research Facility, University of Edinburgh
 
 Previous members:
+* Tahira Akbar, Digital Research Facility, University of Edinburgh
+* Magnus Hagdorn, School of Geosciences, University of Edinburgh
+
 
 * **Who should we put here?**
 
