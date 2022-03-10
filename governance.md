@@ -52,3 +52,16 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * **Should we have a secretary?**
 * **Can anyone join the committee?**
 
+Other things to consider (maybe):
+
+- Purpose (objects);
+- Activities it can be involved in;
+- Beneficiaries (who can benefit from your work);
+- Geographic area you can work within;
+- Powers of the management committee;
+- Rules for running meetings;
+- Voting procedures;
+- Election of the management committee;
+- Election of office-bearers;
+- Financial requirements; and
+- Winding down (closure).
