@@ -25,7 +25,7 @@ EB reports that there were 3 Edinburgh based instructors on the UK Carpentries i
 Attendance was discussed - a recent live workshop had low numbers and in general attendance numbers were seen to be dropping.
 Possible workshop with the Chemistry Dept at Ed Uni. (AM to speak to GP)
 
-### Goverance document
+### Governance document
 
 Role of the chairperson: to organise meetings and keep the agenda. SF will leave the role in June, and then the role will run on a 3 month/meeting cycle, with different 
 committee members.
@@ -36,13 +36,14 @@ The criteria for joining and memebership of the committee was discussed (see act
 Possible workshop with the Chemistry Dept at Ed Uni.
 
 ## Actions
-SF - create a standing agenda. 
-All - Can we add contact emails to the governance document. 
-AM - open an issue (see links in the caht below) to collect ideas around what constitutes membership and roles. 
-SF - organise a meeting for the last 2 weeks in April (SF to circulate invite at the end of March)
+- [ ] **SF** - create a standing agenda. 
+- [ ] **Al**l - Can we add contact emails to the governance document. 
+- [ ] **AM** - open an issue (see links in the caht below) to collect ideas around what constitutes membership and roles. 
+- [ ] **SF** - organise a meeting for the last 2 weeks in April (SF to circulate invite at the end of March).
 
 ## Meeting zoom chat:
 
+```
 12:05:15 From  Steven Ford  to  Everyone:
 	https://github.com/edcarp/organising-committee/blob/main/governance.md
 12:17:25 From  Giacomo Peru  to  Everyone:
@@ -83,4 +84,6 @@ SF - organise a meeting for the last 2 weeks in April (SF to circulate invite at
 	https://www.cdcs.ed.ac.uk/events/machine-learning-python
 12:42:43 From  David McKain  to  Everyone:
 	You've probably already noticed, but there were a few slightly different ML repos in alpha/beta state in the incubator last time I looked.
+
+```
 
