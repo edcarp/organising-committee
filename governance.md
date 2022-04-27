@@ -22,7 +22,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 
 ## Current committee members
 
-* Mario Antonioletti, SSI/EPCC, University of Edinburgh
+* Mario Antonioletti, SSI/EPCC, University of Edinburgh mario@epcc.ed.ac.uk
 * Francesca Baseby, Centre for Research Collections, University of Edinburgh fran.baseby@ed.ac.uk
 * Evgenij Belikov, EPCC, University of Edinburgh
 * Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde (**Chair**)
