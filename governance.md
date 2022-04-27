@@ -26,7 +26,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Francesca Baseby, Centre for Research Collections, University of Edinburgh fran.baseby@ed.ac.uk
 * Evgenij Belikov, EPCC, University of Edinburgh
 * Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde (**Chair**)
-* Graeme Grimes, IGC, University of Edinburgh
+* Graeme Grimes, IGC, University of Edinburgh, Graeme.Grimes@ed.ac.uk
 * Matthew Hamilton, Edinburgh College of Arts, University of Edinburgh
 * Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
