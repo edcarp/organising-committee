@@ -11,13 +11,13 @@ Fran Baseby
 
 ## Agenda items
 
-1)      Approving the previous minutes
-2)      Updates on actions form the last meeting.
-3)      Feedback on workshops that have been run (for improvement etc)
-4)      Updates from the Ed Carp Steering Committee
-5)      Information on planned workshops (calls for instructors, adverts for workshops running)
-6)      AoB
-7)      Discussions of governence document
+1) Approving the previous minutes
+2) Updates on actions form the last meeting.
+3) Feedback on workshops that have been run (for improvement etc)
+4) Updates from the Ed Carp Steering Committee
+5) Information on planned workshops (calls for instructors, adverts for workshops running)
+6) AoB
+7) Discussions of governence document
 
 ## Previous actions
 
