@@ -37,12 +37,12 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Giacomo Peru, SSI/EPCC, University of Edinburgh
 * Toby Samuels, Research Futures Academy, Heriot-Watt University
 * Sara Tilley, Researcher Development Coordinator, Heriot Watt University
-* Edward Wallace, Wallace Lab, University of Edinburgh
 
 ## Past committee members
 
 * Tahira Akbar, Digital Research Facility, University of Edinburgh
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
+* Edward Wallace, Wallace Lab, University of Edinburgh
 
 
 ## Outstanding issues
