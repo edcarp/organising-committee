@@ -14,6 +14,14 @@ Fran Baseby
 Discussions of governence document
 AOB
 
+## Previous actions
+
+## Actions
+- [ ] **SF** - create a standing agenda. 
+- [ ] **Al**l - Can we add contact emails to the governance document. 
+- [ ] **AM** - open an issue (see links in the chat below) to collect ideas around what constitutes membership and roles. 
+- [ ] **SF** - organise a meeting for the last 2 weeks in April (SF to circulate invite at the end of March).
+
 
 ## Notes 
 Tahira, Toby and Magnus have stepped down/will step down - thanks to them for their efforts on the committee.
