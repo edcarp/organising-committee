@@ -3,7 +3,7 @@
 
 ## Attendees
 
-Mario Antonioletti, Steve Ford, David McKain, Lucia Michielin, Graeme Grimes, Toby Samuels, Antonia Mey, Evgenji Belikov, Juan Herrera, Alison Meynert, Lucia Michielin
+Mario Antonioletti, Steve Ford, David McKain, Lucia Michielin, Graeme Grimes, Toby Samuels, Antonia Mey, Evgenji Belikov, Juan Herrera, Alison Meynert
 
 ## Declined, Apologies and Tentative 
 
