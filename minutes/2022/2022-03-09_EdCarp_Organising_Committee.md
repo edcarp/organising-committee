@@ -38,7 +38,7 @@ Possible workshop with the Chemistry Dept at Ed Uni.
 ## Actions
 - [ ] **SF** - create a standing agenda. 
 - [ ] **Al**l - Can we add contact emails to the governance document. 
-- [ ] **AM** - open an issue (see links in the caht below) to collect ideas around what constitutes membership and roles. 
+- [ ] **AM** - open an issue (see links in the chat below) to collect ideas around what constitutes membership and roles. 
 - [ ] **SF** - organise a meeting for the last 2 weeks in April (SF to circulate invite at the end of March).
 
 ## Meeting zoom chat:
