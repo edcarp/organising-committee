@@ -33,17 +33,13 @@ Edward Wallace will be stepping down from his role in the Organising Committee  
 
 As request was pput out for a new chaor person. MA will step inyo the role if there are no other volunteers.
 
-JH reported a face to face workshop at HW  uni with approx 20 delegates. 
+JH reported a face to face workshop at HW  uni with approx 20 delegates. There are also 2 data and two software carpentries workshops that JH was offering for any organisation that has space. 
 
 MA reported the SSI software camps (see link in the chat box text.)
 
 LM and DMcK commented on the slack channel as a way of finding instructors (see link in the chat box text.)
 
-### Workshop issues: 
-
-
-### Governance document
-
+EW mentioned a neew funding round for Ed-DASH and looking for new ideas/partners. 
 
 
 ## AOB
