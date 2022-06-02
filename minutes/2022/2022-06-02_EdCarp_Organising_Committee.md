@@ -5,7 +5,7 @@ Minutes from the last meeting: [https://github.com/edcarp/organising-committee/b
 ## New Actions
 
 - [ ] **MA** to organise a meeting for the August.
-- [ ] **MA** contact Robert and Matthew. 
+- [ ] **MA** contact Robert and Matthew about whether they wish to remain in organising committee. 
 - [ ] **GP** to organising a meeting to discuss how the Organising Committee can support the Steering Committee sometime in July. 
 - [ ] **SF** to discuss in SIPBS running a workshop for researchers within SIPBS and contact JP.
 
