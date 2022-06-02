@@ -52,7 +52,7 @@ SF to organise a meeting for the end of May.
 SF to send emails to those who ahve missed 3 meetings. 
 
 ## Meeting zoom chat:
-
+```
 13:02:04 From  Steven Ford  to  Everyone:
 	https://github.com/edcarp/organising-committee/blob/main/minutes/2022/2022-04-27_EdCarp_Organising_Committee.md
 13:07:08 From  Steven Ford  to  Everyone:
@@ -94,4 +94,4 @@ SF to send emails to those who ahve missed 3 meetings.
 	Do you have a carpentry page for Strathclyde I can point the people that made a request to?
 13:42:20 From  Graeme Grimes  to  Everyone:
 	Thanks and bye
-
+```
