@@ -2,6 +2,13 @@
 
 Minutes from the last meeting: [https://github.com/edcarp/organising-committee/blob/main/minutes/2022/2022-03-09_EdCarp_Organising_Committee.md](https://github.com/edcarp/organising-committee/blob/main/minutes/2022/2022-04-27_EdCarp_Organising_Committee.md)
 
+## New Actions
+
+- [ ] **MA** to organise a meeting for the August.
+- [ ] **MA** contact Robert and Matthew. 
+- [ ] **GP** to organising a meeting to discuss how the Organising Committee can support the Steering Committee sometime in July. 
+- [ ] **SF** to discuss in SIPBS running a workshop for researchers within SIPBS and contact JP.
+
 ## Attendees
 
 Mario Antonioletti, Steve Ford, David McKain, Juan Herrera, Fran Baseby, Evgenij Belikov, Giacomo Peru
@@ -42,16 +49,8 @@ EB reported that he is running instructor training (see chat).
 
 None
 
-## Actions
-
-MA to organise a meeting for the August.
-MA contact Robert and Matthew. 
-GP to organising a meeting to discuss how the Organising Committee can support the Steering Committee sometime in July. 
-SF to discuss in SIPBS running a workshop for researchers within SIPBS and contact JP.
-
-
 ## Meeting zoom chat:
-
+```
 10:10:33 From  Francesca Baseby  to  Everyone:
 	Do we have minutes for today on git hub?
 10:11:10 From  Steven Ford  to  Everyone:
@@ -64,3 +63,4 @@ SF to discuss in SIPBS running a workshop for researchers within SIPBS and conta
 	Suggestions should be in by 12.6
 10:37:05 From  Evgenij Belikov  to  Everyone:
 	Is UoE still a member of the Carpentries? I am co-running instructor training 6-7.9 if you know of people who want to become certified instructors.
+```
