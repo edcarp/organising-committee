@@ -5,7 +5,7 @@ Minutes from the last meeting: [https://github.com/edcarp/organising-committee/b
 ## New Actions
 
 - [ ] **MA** to organise a meeting for the August.
-      * Sent out Doodle poll for the first week in August. Waiting for a quorate to fill the poll.
+    * Sent out Doodle poll for the first week in August. Waiting for a quorate to fill the poll.
 - [x] **MA** contact Robert and Matthew about whether they wish to remain in organising committee. 
     * Talked to Robert. He is busy at the moment writing up his thesis so is a bit constrained time wise but is keen to stay on.
     * Matthew wanted to step back for now
