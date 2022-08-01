@@ -29,7 +29,6 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Graeme Grimes, IGC, University of Edinburgh, Graeme.Grimes@ed.ac.uk
 * Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
-* Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
 * David McKain, SOPA, University of Edinburgh
 * Lucia Michielin, Centre for data Culture & Society, University of Edinburgh
 * Robert Nagy, EPCC, University of Edinburgh
@@ -43,6 +42,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Toby Samuels, Research Futures Academy, Heriot-Watt University
 * Edward Wallace, Wallace Lab, University of Edinburgh
 * Matthew Hamilton, Edinburgh College of Arts, University of Edinburgh
+* Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
 
 ## Outstanding issues
 
