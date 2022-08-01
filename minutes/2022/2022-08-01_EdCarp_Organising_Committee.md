@@ -10,6 +10,13 @@
 * Discussion
 * AOB
 
+## Attendees
+
+* Mario Antonioletti
+* Steven Ford
+* Juan Rodriguez Herrera
+
+###  Apologies
 
 ## New Actions
 
@@ -21,11 +28,6 @@
 - [ ] **GP** to organising a meeting to discuss how the Organising Committee can support the Steering Committee sometime in July. 
 - [ ] **SF** to discuss in SIPBS running a workshop for researchers within SIPBS and contact JP.
 
-## Attendees
-
-
-
-###  Apologies
 
 
 
