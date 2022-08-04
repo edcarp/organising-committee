@@ -31,7 +31,8 @@
 - [ ] **GP** to organising a meeting to discuss how the Organising Committee can support the Steering Committee sometime in July. 
 - [x] **SF** to discuss in SIPBS running a workshop for researchers within SIPBS and contact JP.
       * Time is not quite right for this just now.
-- [ ] **Evgenij** ask Neil if the SSI about having a Carpentry instructor meet-up in Edinburgh, maybe in September.
+- [x] **Evgenij** ask Neil if the SSI about having a Carpentry instructor meet-up in Edinburgh, maybe in September.
+      * SSI could provide some funds for food and non-alcoholic drinks; better to have the event later in September (due to P&M, purchase order stop)
 - [ ] **Mario** Let Graeme know about teaching git at IGC.
 - [ ] **Mario** Schedule another EdCarp meeting in September.
 
