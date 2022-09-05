@@ -15,7 +15,8 @@
 * Mario Antonioletti
 * Juan Rodriguez Herrera
 * David McKain
-* Lucia Michielin
+* Evgenij Belikov
+* Giacomo Peru
 
 ###  Apologies
 * Steven Ford
@@ -23,9 +24,10 @@
 
 ## New Actions
 
-- [ ] **GP** to organising a meeting to discuss how the Organising Committee can support the Steering Committee sometime in July. 
+- [x] **GP** to organising a meeting to discuss how the Organising Committee can support the Steering Committee sometime in July. 
+     * Gina, Lucy, Mario, Steve are helping out to review the data.
 - [x] **Evgenij** ask Neil if the SSI about having a Carpentry instructor meet-up in Edinburgh, maybe in September.
-      * SSI could provide some funds for food and non-alcoholic drinks; better to have the event later in September (due to P&M purchase order stop)
+     * SSI could provide some funds for food and non-alcoholic drinks; better to have the event later in September (due to P&M purchase order stop)
 - [x] **Mario** Let Graeme know about teaching git at IGC.
   MA will do it.
 - [x] **Mario** Schedule another EdCarp meeting in September.
