@@ -46,6 +46,7 @@
 * Mario teaching git at the school of maths and later at igc.
 * Giacomo - shcool of engineering having a preworkshop workshop - the workshop is on manufacturing but they want to have a Python workshop before the workshop. More details at https://datascimanufacturing.github.io/2022-09-16-UoE.
 * EdDash is coming for the last set of workshops. 
+* The centre for data, culture and society are going to have a Data Carpentry Social science 17-20 October.
 
 
 ## AOB
