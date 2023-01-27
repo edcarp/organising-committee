@@ -26,7 +26,8 @@ None
 
 ## New Actions
 
-- [x] **Evgenij** confirm booking of G.03 on 24th February, afternoon (1500-1700) and [ ] circulate to EdCarp Instructors and Helpers.
+- [x] **Evgenij** confirm booking of G.03 on 24th February, afternoon (1500-1700)
+- [ ] **Evgenij** circulate to EdCarp Instructors and Helpers
 - [ ] **Fran** organise the next EdCarp meeting in March.
 
 
