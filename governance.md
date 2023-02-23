@@ -33,10 +33,10 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Lucia Michielin, Centre for data Culture & Society, University of Edinburgh
 * Robert Nagy, EPCC, University of Edinburgh
 * Giacomo Peru, SSI/EPCC, University of Edinburgh
-* Sara Tilley, Researcher Development Coordinator, Heriot Watt University
+* Gabriele Matilionyte, Researcher Development Consultant, Heriot-Watt University
 
 ## Past committee members
-
+* Sara Tilley, Researcher Development Coordinator, Heriot Watt University
 * Tahira Akbar, Digital Research Facility, University of Edinburgh
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
 * Toby Samuels, Research Futures Academy, Heriot-Watt University
