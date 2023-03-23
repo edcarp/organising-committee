@@ -39,7 +39,8 @@
 ## Discussion: 
 
 * Fran flagged AI as a priority in academic libraries's leadership groups, concern about keeping up with knowledge. Noticed there is an Introduction to AL for GLAM (Galleries, Libraries, Archives, Museums) in Carpentries Incubator. Looks like it arose from the Living with Machines project (https://livingwithmachines.ac.uk/). Fran to contact authors. Potential future test offering through EdCarp.
-
+https://carpentries-incubator.github.io/machine-learning-librarians-archivists/
+https://github.com/carpentries-incubator/machine-learning-librarians-archivists
 
 ## AOB
 
