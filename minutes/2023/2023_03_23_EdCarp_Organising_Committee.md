@@ -45,9 +45,10 @@ https://github.com/carpentries-incubator/machine-learning-librarians-archivists
 
 ## AOB
 
-* 
+* None.
 
 ## Meeting zoom chat
+```
 You  to  Everyone 14:05
 https://github.com/edcarp/organising-committee/blob/main/minutes/2023/2023_01_26_EdCarp_Organising_Committee.md
 Mario Antonioletti  to  Everyone 14:11
@@ -70,6 +71,4 @@ Mario Antonioletti  to  Everyone 14:22
 Toby is the only person I recognise
 Evgenij Belikov  to  Everyone 14:25
 g.matilionyte@hw.ac.uk
-```
-
 ```
