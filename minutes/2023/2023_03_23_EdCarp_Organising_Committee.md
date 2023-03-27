@@ -35,6 +35,7 @@
 * Giacomo: DUSC going well so far, first round had good turnout. The June course will be delivered in person at the library. Bayes have asked for two rounds to be delivered in 2024 (Spring and Autumn) and have offered funding; likely to happen but needs confirmation of a coordinator role.
 * Fran is leaving UofE at end of April for post of Deputy Head of Archives at Historic Environment Scotland. Will continue involvement in Edinburgh Carpentries, and has one more session in role as chair. Fran is going to try and drum up more engagement with EdCarp from UofE Information Services.
 * Juan: organised data carpentry at Heriot Watt on 6 & 7 June through ARCHER2. One is also being delivered at end of April.
+* Mario: recent in person Community of Edinburgh RSEs (CERSE) meet up took place. https://cerse.github.io/2023-03-15-Bayes/ Meetings will alternate betwen online and in person.
 
 ## Discussion: 
 
