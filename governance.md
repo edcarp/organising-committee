@@ -34,12 +34,12 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Robert Nagy, EPCC, University of Edinburgh
 * Giacomo Peru, SSI/EPCC, University of Edinburgh
 * Gabriele Matilionyte, Researcher Development Consultant, Heriot-Watt University
+* Toby Samuels, Research Futures Academy, Heriot-Watt University
 
 ## Past committee members
 * Sara Tilley, Researcher Development Coordinator, Heriot Watt University
 * Tahira Akbar, Digital Research Facility, University of Edinburgh
 * Magnus Hagdorn, School of Geosciences, University of Edinburgh
-* Toby Samuels, Research Futures Academy, Heriot-Watt University
 * Edward Wallace, Wallace Lab, University of Edinburgh
 * Matthew Hamilton, Edinburgh College of Arts, University of Edinburgh
 * Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
