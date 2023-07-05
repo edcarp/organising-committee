@@ -22,9 +22,9 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 
 ## Current committee members
 
-* Mario Antonioletti, SSI/EPCC, University of Edinburgh mario@epcc.ed.ac.uk (**Chair**)
-* Francesca Baseby, Centre for Research Collections, University of Edinburgh fran.baseby@ed.ac.uk
-* Evgenij Belikov, EPCC, University of Edinburgh
+* Mario Antonioletti, SSI/EPCC, University of Edinburgh mario@epcc.ed.ac.uk
+* Francesca Baseby, Archives, Historic Environment Scotland fran.baseby@hes.scot
+* Evgenij Belikov, EPCC, University of Edinburgh  (**Chair**)
 * Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde 
 * Graeme Grimes, IGC, University of Edinburgh, Graeme.Grimes@ed.ac.uk
 * Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
