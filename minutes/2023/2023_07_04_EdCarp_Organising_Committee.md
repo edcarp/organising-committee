@@ -51,6 +51,3 @@
 
 * None.
 
-## Meeting zoom chat
-```
-
