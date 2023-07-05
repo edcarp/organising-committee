@@ -30,7 +30,7 @@
 
 - [ ] **Evgenij** to act as Chair for next three meetings, and schedule next meeting
 - [ ] **Mario** to pin spreadsheet for recording data to the Slack channel and Github
-
+- [ ] **Mario** get in touch with Bailley to see if she wants to remain in EdCarp Org Committee
 
 ## Announcements
 * 
@@ -46,6 +46,7 @@
 * Toby: welcomed back to committee. Now in School of Engineering and Physical Sciences at HWU.
 * Edward: working on some lessons. Lesson on 'good enough' practices has made it through peer review and been approved for carpentries lab; designed to be delivered alongside GitHub lesson for first year PhD students. Other lessons have been submitted for peer review pending outcome. EdCarp steering committee discussed paying for Carpentries membership but decided funds better spent on admin support next year. SFC / Bayes programme is going week.
 * David: difficulty engaging researchers and getting attendance at workshops.
+* Evgenij volunteered to take on the chair role for the next 3 sessions.
 
 ## AOB
 
