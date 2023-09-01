@@ -9,7 +9,12 @@
 * AOB
 
 ## Attendees
-
+* Mario Antonioletti
+* Evgenij Belikov
+* Lucia Michielin
+* Steven Ford
+* Chris Wood
+  
 ### Apologies
 * Giacomo Peru
 * Toby Samuels
