@@ -29,9 +29,12 @@
 * RSECon, Confessions of a Carpentries Instructor
 * DUSC: Data Upsacling Short Courses (in week of 11th)
 * CAHSS New training fellow joining (Data Carpentries likely will be organised; UoE staff; space can be given to external researchers if spaces left)
-  
+
 ## Discussion
-* Chris reporting on a NERC grant: 9 workshops over next 12 months (beginner, intermediate and advanced sessions); new materials: likely Dask/Make/advanced Python
+* Chris reporting on a NERC grant: 9 workshops over next 12 months (beginner, intermediate and advanced sessions); new materials: likely Dask/Make/advanced Python (locations: Edinburgh, Oxford, Liverpool); also some bring your own data/code sessions; can fund travel/accommodation for PhD students
+* Sarah Tilley asked to be removed fro mthe mailing list (as she is not returning to the OrgCom); done
+* Evgenij spoke to Robert Nagy, an he has no time to act on the Committee at present and was inactive for a while (ok to be taken of the list; can sometime still help out as instructor)
+* 
   
 ## AOB
 
