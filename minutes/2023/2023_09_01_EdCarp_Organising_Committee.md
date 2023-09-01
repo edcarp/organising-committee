@@ -40,6 +40,7 @@
 * Evgenij spoke to Robert Nagy, an he has no time to act on the Committee at present and was inactive for a while (ok to be taken of the list; can sometime still help out as instructor)
 * brief discussion of Zoom policy change
 * organise a social event (perhaps an unofficially; data on active numbers may be on AMY via UK Carps; slack to advertise)
+* somewhat lower occupancy post-pandemic still (Strathclyde have pack to in-person teaching; 3-day in the office policy; at UoE department 2-3 days; CAHSS have 50% in-person - 50% online  model for training courses)
   
 ## AOB
 
