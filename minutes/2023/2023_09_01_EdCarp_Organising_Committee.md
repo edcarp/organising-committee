@@ -24,7 +24,12 @@
 ## New Actions
 - [x] **Mario** to pin spreadsheet for recording data to the Slack channel and Github
 - [ ] **Mario** get in touch with Bailley to see if she wants to remain in EdCarp Org Committee
-      
+
+## Announcements
+* RSECon, Confessions of a Carpentries Instructor
+* DUSC: Data Upsacling Short Courses (in week of 11th)
+* CAHSS New training fellow joining (Data Carpentries likely will be organised)
+  
 ## Discussion
 
 ## AOB
