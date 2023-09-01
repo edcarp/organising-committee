@@ -30,7 +30,6 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
 * Lucia Michielin, Centre for data Culture & Society, University of Edinburgh
-* Robert Nagy, EPCC, University of Edinburgh
 * Giacomo Peru, SSI/EPCC, University of Edinburgh
 * Gabriele Matilionyte, Researcher Development Consultant, Heriot-Watt University
 * Toby Samuels, Research Futures Academy, Heriot-Watt University
@@ -43,6 +42,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Matthew Hamilton, Edinburgh College of Arts, University of Edinburgh
 * Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
 * David McKain, SOPA, University of Edinburgh
+* Robert Nagy, EPCC, University of Edinburgh
 
 ## Outstanding issues
 
