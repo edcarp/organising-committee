@@ -32,7 +32,9 @@
 
 ## Discussion
 * Chris reporting on a NERC grant: 9 workshops over next 12 months (beginner, intermediate and advanced sessions); new materials: likely Dask/Make/advanced Python (locations: Edinburgh, Oxford, Liverpool); also some bring your own data/code sessions; can fund travel/accommodation for PhD students
-* Sarah Tilley asked to be removed fro mthe mailing list (as she is not returning to the OrgCom); done
+* Steven asked if Pharmaceutical research is in NERC remit; Chris said there is some lenience to who can participate
+* Steven asking about best ways to avertise; Mario for looking for helper - Slack probably best; in the past website was up-to-date wrt upcoming courses (How to be aware of the course in the first place?), also DUSC courses are advertised on the Bayes website; Evgenij: looking after the website could be a task/role; Steven would like to get some more people involved at Strathclyde
+* Sarah Tilley asked to be removed from the mailing list (as she is not returning to the OrgCom); done
 * Evgenij spoke to Robert Nagy, an he has no time to act on the Committee at present and was inactive for a while (ok to be taken of the list; can sometime still help out as instructor)
 * 
   
