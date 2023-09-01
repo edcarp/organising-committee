@@ -14,6 +14,7 @@
 * Giacomo Peru
 * Toby Samuels
 * Fran Baseby
+* Juan Rodriguez Herrera
 
 ## New Actions
 
