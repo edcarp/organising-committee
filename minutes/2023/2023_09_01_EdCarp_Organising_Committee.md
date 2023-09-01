@@ -24,6 +24,8 @@
 ## New Actions
 - [x] **Mario** to pin spreadsheet for recording data to the Slack channel and Github
 - [ ] **Mario** get in touch with Bailley to see if she wants to remain in EdCarp Org Committee
+- [ ] **Evgenij** get in touch with Carps UK to check who is active in the Region and organise an unofficial outing
+- [ ] **Evgenij** organise next meeting 
 
 ## Announcements
 * RSECon, Confessions of a Carpentries Instructor
@@ -36,7 +38,8 @@
 * Steven asking about best ways to avertise; Mario for looking for helper - Slack probably best; in the past website was up-to-date wrt upcoming courses (How to be aware of the course in the first place?), also DUSC courses are advertised on the Bayes website; Evgenij: looking after the website could be a task/role; Steven would like to get some more people involved at Strathclyde
 * Sarah Tilley asked to be removed from the mailing list (as she is not returning to the OrgCom); done
 * Evgenij spoke to Robert Nagy, an he has no time to act on the Committee at present and was inactive for a while (ok to be taken of the list; can sometime still help out as instructor)
-* 
+* brief discussion of Zoom policy change
+* organise a social event (perhaps an unofficially; data on active numbers may be on AMY via UK Carps; slack to advertise)
   
 ## AOB
 
