@@ -23,7 +23,6 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 ## Current committee members
 
 * Mario Antonioletti, SSI/EPCC, University of Edinburgh mario@epcc.ed.ac.uk
-* Francesca Baseby, Archives, Historic Environment Scotland fran.baseby@hes.scot
 * Evgenij Belikov, EPCC, University of Edinburgh  (**Chair**)
 * Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde 
 * Graeme Grimes, IGC, University of Edinburgh, Graeme.Grimes@ed.ac.uk
@@ -43,7 +42,7 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Antonia (Toni) Mey, School of Chemistry, University of Edinburgh
 * David McKain, SOPA, University of Edinburgh
 * Robert Nagy, EPCC, University of Edinburgh
-
+* Francesca Baseby, Archives, Historic Environment Scotland fran.baseby@hes.scot
 ## Outstanding issues
 
 * **Should we have rules for committee members? e.g. a minimum attendance?, see issue [#9](https://github.com/edcarp/organising-committee/issues/9)**
