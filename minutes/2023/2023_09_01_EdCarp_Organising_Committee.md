@@ -25,7 +25,7 @@
 - [x] **Mario** to pin spreadsheet for recording data to the Slack channel and Github
 - [ ] **Mario** get in touch with Bailley to see if she wants to remain in EdCarp Org Committee
 - [ ] **Evgenij** get in touch with Carps UK to check who is active in the Region and organise an unofficial outing
-- [ ] **Evgenij** organise next meeting 
+- [x] **Evgenij** organise next meeting 
 
 ## Announcements
 * RSECon, Confessions of a Carpentries Instructor
