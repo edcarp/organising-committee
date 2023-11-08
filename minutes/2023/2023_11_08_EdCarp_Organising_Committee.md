@@ -9,12 +9,10 @@
 * AOB
 
 ## Attendees
-* 
-* 
-* 
-* 
-*
-* 
+* Mario Antonioletti
+* Evgenij Belikov
+* Lucia Michielin
+* Juan Rodriguez Herrera
   
 ### Apologies
 * Steven Ford
@@ -23,7 +21,7 @@
 ## New Actions
 - [ ] **Mario** get in touch with Bailley to see if she wants to remain in EdCarp Org Committee
 - [ ] **Evgenij** get in touch with Carps UK to check who is active in the Region and organise an unofficial outing
-- [ ] **Evgenij** organise next meeting 
+- [ ] **Evgenij** organise next meeting for January
 
 ## Announcements
 * Fran Baseby stepped down from the committee
