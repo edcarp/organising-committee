@@ -30,7 +30,7 @@
 
 ## Discussion
 * for meeting organiser: include .ics file for calender
-* 
+* discussing the need to find new committee member after a few have become inactive or stepped down
 * 
 * 
 * 
