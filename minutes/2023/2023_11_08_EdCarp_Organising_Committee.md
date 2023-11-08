@@ -20,6 +20,7 @@
 
 ## New Actions
 - [ ] **Mario** get in touch with Robyn to see if she wants to join the EdCarp Org Committee
+- [ ] **Mario** to chat to Giacomo to increase representation across Edinburgh
 - [ ] **Evgenij** get in touch with Carps UK to check who is active in the Region and organise an unofficial outing
 - [ ] **Evgenij** organise next meeting for January
 
@@ -31,7 +32,7 @@
 ## Discussion
 * for meeting organiser: include .ics file for calender
 * discussing the need to find new committee member after a few have become inactive or stepped down
-* 
+* discussing need to increase respresentation across Edinburgh
 * 
 * 
 * 
