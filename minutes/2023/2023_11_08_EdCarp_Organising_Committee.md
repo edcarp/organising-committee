@@ -19,7 +19,7 @@
 * Graeme Grimes
 
 ## New Actions
-- [ ] **Mario** get in touch with Bailley to see if she wants to remain in EdCarp Org Committee
+- [ ] **Mario** get in touch with Robyn to see if she wants to join the EdCarp Org Committee
 - [ ] **Evgenij** get in touch with Carps UK to check who is active in the Region and organise an unofficial outing
 - [ ] **Evgenij** organise next meeting for January
 
@@ -29,7 +29,7 @@
 * 
 
 ## Discussion
-* 
+* for meeting organiser: include .ics file for calender
 * 
 * 
 * 
