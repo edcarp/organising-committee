@@ -26,7 +26,6 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * Evgenij Belikov, EPCC, University of Edinburgh  (**Chair**)
 * Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde 
 * Graeme Grimes, IGC, University of Edinburgh, Graeme.Grimes@ed.ac.uk
-* Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
 * Juan Rodriguez Herrera, EPCC, University of Edinburgh
 * Lucia Michielin, Centre for data Culture & Society, University of Edinburgh
 * Giacomo Peru, SSI/EPCC, University of Edinburgh
@@ -43,6 +42,9 @@ The remainder of this document focuses on the *Organising Committee*. The group 
 * David McKain, SOPA, University of Edinburgh
 * Robert Nagy, EPCC, University of Edinburgh
 * Francesca Baseby, Archives, Historic Environment Scotland fran.baseby@hes.scot
+* Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde
+
+
 ## Outstanding issues
 
 * **Should we have rules for committee members? e.g. a minimum attendance?, see issue [#9](https://github.com/edcarp/organising-committee/issues/9)**
