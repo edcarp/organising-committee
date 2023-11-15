@@ -23,19 +23,18 @@
 - [ ] **Mario** to chat to Giacomo to increase representation across Edinburgh (e.g. from King's Buildings)
 - [ ] **Evgenij** get in touch with Carps UK to check who is active in the Region and organise an unofficial outing
 - [ ] **Evgenij** organise next meeting for January
-- [ ] **Evgenij** email asking everyone for a paragraph what do we think organising committee remit is and one on how we could gain momentum (e.g. minimum level per year in terms of Carpentrie activities)
+- [ ] **Evgenij** email asking everyone for a paragraph about what do we think the organising committee remit is and one on how we could gain momentum (e.g. minimum level per year in terms of Carpentry activities)
 
 ## Announcements
 * Fran Baseby stepped down from the committee
-* 
-* 
+
 
 ## Discussion
-* for meeting organiser: include .ics file for calender
-* the need to find new committee member after a few have become inactive or stepped down
-* need to increase respresentation across Edinburgh
-* onboarding for new committee members and clear statement of the role
+* for meeting organiser: include .ics file for the calendar invite
+* the need to find new committee members after a few have become inactive or stepped down
+* need to increase representation across Edinburgh
+* onboarding for new committee members and a clear statement of the role
 * looking to interact more with the steering committee to which the relationship is not entirely clear
-* how committee can go beyond a group of isolated initiatives (that may run)
+* how the committee can go beyond a group of isolated initiatives (that may run)
   
 ## AOB
