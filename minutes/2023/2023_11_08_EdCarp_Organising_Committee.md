@@ -22,7 +22,7 @@
 - [ ] **Mario** get in touch with Robyn to see if she wants to join the EdCarp Org Committee
 - [ ] **Mario** to chat to Giacomo to increase representation across Edinburgh (e.g. from King's Buildings)
 - [ ] **Evgenij** get in touch with Carps UK to check who is active in the Region and organise an unofficial outing
-- [ ] **Evgenij** organise next meeting for January
+- [x] **Evgenij** organise next meeting for January
 - [ ] **Evgenij** email asking everyone for a paragraph about what do we think the organising committee remit is and one on how we could gain momentum (e.g. minimum level per year in terms of Carpentry activities)
 
 ## Announcements
