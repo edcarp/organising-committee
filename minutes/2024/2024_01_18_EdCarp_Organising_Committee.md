@@ -27,7 +27,8 @@
 
 ## Announcements
 * Carpentry Event in Germany (CarpentryConnect? may have a hybrid option)
-* Alison Meynert is moving on (stepping down from steering committee) 
+* Alison Meynert is moving on (stepping down from steering committee)
+* Several members of the Carpentries Core Team layed off (https://carpentries.org/blog/2024/01/with-gratitude-to-our-legacy-core-team-members/) 
 
 
 ## Discussion
