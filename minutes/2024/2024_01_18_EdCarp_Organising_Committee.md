@@ -21,7 +21,8 @@
 - [ ] **Mario** get in touch with Robyn to see if she wants to join the EdCarp Org Committee
 - [ ] **Mario** to chat to Giacomo to increase representation across Edinburgh (e.g. from King's Buildings)
 - [ ] **Mario** get in touch with Carps to see if can obtain a list of emails of active instructors in Edinburgh or whole Scotland
-- [ ] **Evgenij** get in touch with Carps UK to check who is active in the region and organise an unofficial outing
+- [x] **Evgenij** get in touch with Carps to check who is active in the region
+- [ ] **Evgenij** organise an unofficial outing for EdCarps
 - [ ] **Evgenij** organise next meeting for February
 - [x] **Evgenij** email asking everyone for a paragraph about what do we think the organising committee remit is and one on how we could gain momentum (e.g. minimum level per year in terms of Carpentry activities)
 
