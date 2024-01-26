@@ -23,7 +23,7 @@
 - [ ] **Mario** get in touch with Carps to see if can obtain a list of emails of active instructors in Edinburgh or whole Scotland
 - [ ] **Evgenij** get in touch with Carps UK to check who is active in the region and organise an unofficial outing
 - [ ] **Evgenij** organise next meeting for February
-- [ ] **Evgenij** email asking everyone for a paragraph about what do we think the organising committee remit is and one on how we could gain momentum (e.g. minimum level per year in terms of Carpentry activities)
+- [x] **Evgenij** email asking everyone for a paragraph about what do we think the organising committee remit is and one on how we could gain momentum (e.g. minimum level per year in terms of Carpentry activities)
 
 ## Announcements
 * Carpentry Event in Germany (CarpentryConnect? may have a hybrid option)
