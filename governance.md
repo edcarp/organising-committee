@@ -1,7 +1,5 @@
 # Governance for the Edinburgh Carpentries
 
-**This is a draft!**
-
 * [Purpose](#purpose)
 * [Current committee members](#current-committee-members)
 * [Past committee members](#past-committee-members)
