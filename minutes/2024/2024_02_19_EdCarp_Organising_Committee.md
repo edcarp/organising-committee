@@ -22,7 +22,7 @@
 - [ ] **Mario** get in touch with Robyn to see if she wants to join the EdCarp Org Committee
 - [ ] **Mario** to chat to Giacomo to increase representation across Edinburgh (e.g. from King's Buildings)
 - [ ] **Mario** get in touch with Carps to see if can obtain a list of emails of active instructors in Edinburgh or whole Scotland
-- [ ] **Evgenij** organise next meeting for mid-April
+- [x] **Evgenij** organise next meeting for mid-April (22.4)
 - [ ] **Evgenij** organise an unofficial outing for EdCarps
 - [ ] **Evgenij** gather opt-in emails for a EdCarp community email list
 - [x] **Evgenij** get in touch with Carps to check who is active in the region
